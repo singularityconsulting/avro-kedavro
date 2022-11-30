@@ -1,5 +1,5 @@
 
-BUILD_PATH = github.com/ouzi-dev/avro-kedavro
+BUILD_PATH = github.com/singularityconsulting/avro-kedavro
 
 HAS_GOLANCI_LINT := $(shell command -v golangci-lint;)
 GOLANGCI_LINT_VERSION := v1.21.0

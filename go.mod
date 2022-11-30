@@ -1,4 +1,4 @@
-module github.com/ouzi-dev/avro-kedavro
+module github.com/singularityconsulting/avro-kedavro
 
 go 1.13
 

@@ -1,4 +1,4 @@
-BUILD_PATH = github.com/ouzi-dev/avro-kedavro/cli
+BUILD_PATH = github.com/singularityconsulting/avro-kedavro/cli
 TARGETS   ?= darwin/amd64 linux/amd64 windows/amd64
 DIST_DIRS = find * -type d -exec
 LDFLAGS   := -w -s

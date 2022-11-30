@@ -64,7 +64,7 @@ import (
 	"fmt"
 
 	"github.com/linkedin/goavro"
-	"github.com/ouzi-dev/avro-kedavro/pkg/kedavro"
+	"github.com/singularityconsulting/avro-kedavro/pkg/kedavro"
 )
 
 const schema = `{

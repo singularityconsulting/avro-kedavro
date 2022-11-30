@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/ouzi-dev/avro-kedavro/pkg/types"
+	"github.com/singularityconsulting/avro-kedavro/pkg/types"
 )
 
 type parser struct {

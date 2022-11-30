@@ -4,7 +4,7 @@ import (
 	"io/ioutil"
 
 	"github.com/linkedin/goavro/v2"
-	"github.com/ouzi-dev/avro-kedavro/pkg/kedavro"
+	"github.com/singularityconsulting/avro-kedavro/pkg/kedavro"
 	"github.com/spf13/cobra"
 )
 
