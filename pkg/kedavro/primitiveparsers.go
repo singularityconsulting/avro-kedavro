@@ -5,7 +5,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/ouzi-dev/avro-kedavro/pkg/types"
+	"github.com/singularityconsulting/avro-kedavro/pkg/types"
 )
 
 type valueParserFunction func(field *Field, value interface{}) (interface{}, error)

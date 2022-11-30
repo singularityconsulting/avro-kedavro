@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/ouzi-dev/avro-kedavro/pkg/types"
+	"github.com/singularityconsulting/avro-kedavro/pkg/types"
 )
 
 func getStringAs(value interface{}, returnType string) (interface{}, error) {

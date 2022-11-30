@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/linkedin/goavro"
-	"github.com/ouzi-dev/avro-kedavro/pkg/types"
+	"github.com/singularityconsulting/avro-kedavro/pkg/types"
 )
 
 func parseUnionField(field *Field, record map[string]interface{}) (interface{}, error) {

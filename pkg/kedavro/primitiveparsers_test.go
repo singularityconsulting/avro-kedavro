@@ -3,7 +3,7 @@ package kedavro
 import (
 	"testing"
 
-	"github.com/ouzi-dev/avro-kedavro/pkg/types"
+	"github.com/singularityconsulting/avro-kedavro/pkg/types"
 	"github.com/stretchr/testify/assert"
 )
 
